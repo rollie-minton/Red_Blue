@@ -31,8 +31,10 @@ body > div {
 .red {
   background-color: #b05f6d;
   color: white;
+  height: 100rem;
 }
 .blue {
   background-color: #275db3;
   color: white;
+  height: 100rem;
 }

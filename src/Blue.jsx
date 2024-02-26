@@ -1,3 +1,7 @@
 export default function Blue() {
-  return <h1>Blue</h1>;
+  return (
+    <main className="blue">
+      <h1>Blue</h1>
+    </main>
+  );
 }
